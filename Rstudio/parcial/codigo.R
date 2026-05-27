@@ -1,5 +1,5 @@
 # Leer el archivo CSV
-Datos <- read.csv("C:/Users/tissera/Downloads/Base.csv", stringsAsFactors = FALSE)
+Datos <- read.csv("C:/Users/usr/Downloads/Base.csv", stringsAsFactors = FALSE)
 
 # Ver las primeras filas
 head(Datos)
